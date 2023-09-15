@@ -15,12 +15,14 @@ Please be flexible with each 🫡
 Client installation: https://www.python.org/downloads/
 
 ## 2/ Python package installation
+Install the following four package files in a terminal.
+※If you have already installed them, please check the version. (discord.py stopped being updated in 2021)
 
-``pip install openai`` ## 3/ Install Python packages: ## 4/ Install Python packages
+``pip install openai``
 
 ``pip install discord.py``
 
 ``pip install langchain``
 
-```pip install tiktoken``
+``pip install tiktoken``
 
