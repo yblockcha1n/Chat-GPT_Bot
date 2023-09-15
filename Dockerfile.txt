@@ -1,0 +1,5 @@
+python==3.11
+discord.py==2.3.2
+openai==0.28.0
+langchain==0.0.286
+tiktoken==0.5.0
