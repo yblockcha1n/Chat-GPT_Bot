@@ -6,6 +6,7 @@ Send a /ask question to the channel to receive an answer from the bot.
 
 It also performs short-term memory, allowing for fluent conversational connections.
 
+The next update will be in the form of individual threads, in which the conversation will be conducted on an individual basis (maybe😂)
 # Development Environment Building
 I am using MacOS, so this may change with respect to Windows/Linux and other operating systems.
 Please be flexible with each 🫡
